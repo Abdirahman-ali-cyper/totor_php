@@ -26,6 +26,7 @@
 		}
 
 		// check ingredients
+		// gjdflkgjhldkfgj
 		if(empty($_POST['ingredients'])){
 			$errors['ingredients'] = 'At least one ingredient is required';
 		} else{
